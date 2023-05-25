@@ -22,7 +22,7 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
    
 
 ### Instruksi
-1. Lakukan ekstraksi fitur pada dataset tersebut.
+1. Unduh dataset.
 2. Lakukan normalisasi terhadap dataset tersebut kemudian resize dataset ke ukuran 300 pixel.
 3. Ekstraksilah dataset yang diberikan menggunakan sudut 0, 45, 90 dan 135. Dimana masing-masing sudut tersebut akan menghasilkan matrix baru.
 4. Matrix tersebut akan diekstraksi dan menghasilkan fitur berikut:
