@@ -10,7 +10,7 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
 
 1. Clone repositori ini, untuk mendapatkan dataset.
    ```sh
-   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/mizanulridhoaohana/glcm-task)
+   git clone https://github.com/mizanulridhoaohana/glcm-task
    ```
 
 
@@ -33,4 +33,4 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
 
 _Selamat mengerjakan!!_
 
-###Terima Kasih
+### Terima Kasih
