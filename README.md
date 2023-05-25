@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # glcm-task
 Modul 8: Ekstraksi Fitur
          (Gray Level Co-occurence Metrix (GLCM))
@@ -11,15 +12,20 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
 1. Clone repositori ini, untuk mendapatkan dataset.
    ```sh
    git clone https://github.com/mizanulridhoaohana/glcm-task
-   ```
+   ``` 
+2. Dataset akan nampak seperti berikut:
+   
+   ![image](https://github.com/mizanulridhoaohana/glcm-task/assets/112617513/1e0d35a2-e174-47f4-9136-22f037843f24)
+   ![image](https://github.com/mizanulridhoaohana/glcm-task/assets/112617513/b56c0158-1eda-4b7e-8601-abba766d0826)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+   
 
 ### Instruksi
 1. Lakukan ekstraksi fitur pada dataset tersebut.
-2. Ekstraksilah dataset yang diberikan menggunakan sudut 0, 45, 90 dan 135. Dimana masing-masing sudut tersebut akan menghasilkan matrix baru.
-3. Matrix tersebut akan diekstraksi dan menghasilkan fitur berikut:
+2. Lakukan normalisasi terhadap dataset tersebut kemudian resize dataset ke ukuran 300 pixel.
+3. Ekstraksilah dataset yang diberikan menggunakan sudut 0, 45, 90 dan 135. Dimana masing-masing sudut tersebut akan menghasilkan matrix baru.
+4. Matrix tersebut akan diekstraksi dan menghasilkan fitur berikut:
    - [x] Kontras
    - [x] Dissimiliarity
    - [x] Homogenitas
@@ -27,9 +33,9 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
    - [x] ASM
    - [x] Energy
    - [x] Correlation
- 4. Buatlah korelasi fitur menggunakan Person Correlation.
- 5. Tampilkanlah 5 korelasi tertinggi dari hasil korelasi fitur kalian.
- 6. Analisislah perbedaan hasil ekstraksi fitur yang sudah dilakukan
+ 5. Buatlah korelasi fitur menggunakan Person Correlation.
+ 6. Tampilkanlah 5 korelasi tertinggi dari hasil korelasi fitur kalian.
+ 7. Analisislah perbedaan hasil ekstraksi fitur yang sudah dilakukan.
 
 _Selamat mengerjakan!!_
 
