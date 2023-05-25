@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 # glcm-task
 Modul 8: Ekstraksi Fitur
-         (Gray Level Co-occurence Metrix (GLCM))
+         (Gray Level Co-occurence Matrix (GLCM))
 
-Pada modul ini praktikan diharapkan bisa melakukan ekstraksi fitur menggunakan metode **Gray Level Co-occurence Metrix (GLCM)**.
+Pada modul ini praktikan diharapkan bisa melakukan ekstraksi fitur menggunakan metode **Gray Level Co-occurence Matrix (GLCM)**.
 
 _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
 
