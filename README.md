@@ -37,6 +37,11 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
  6. Tampilkanlah 5 korelasi tertinggi dari hasil korelasi fitur kalian.
  7. Analisislah perbedaan hasil ekstraksi fitur yang sudah dilakukan.
 
+### Output
+1. File .csv yang berisi fitur dataset.
+2. Gambar Pearson correlation.
+
+
 _Gunakanlah 100-150 record dataset per label jika dataset dirasa terlalu berat untuk dieksekusi._
 
 _Selamat mengerjakan!!_
