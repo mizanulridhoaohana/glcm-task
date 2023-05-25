@@ -1,22 +1,36 @@
 # glcm-task
+Modul 8: Ekstraksi Fitur
+         (Gray Level Co-occurence Metrix (GLCM))
 
-### Installation
+Pada modul ini praktikan diharapkan bisa melakukan ekstraksi fitur menggunakan metode **Gray Level Co-occurence Metrix (GLCM)**.
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+### Dataset
+
+1. Clone repositori ini, untuk mendapatkan dataset.
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/mizanulridhoaohana/glcm-task)
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Instruksi
+1. Lakukan ekstraksi fitur pada dataset tersebut.
+2. Ekstraksilah dataset yang diberikan menggunakan sudut 0, 45, 90 dan 135. Dimana masing-masing sudut tersebut akan menghasilkan matrix baru.
+3. Matrix tersebut akan diekstraksi dan menghasilkan fitur berikut:
+   - [x] Kontras
+   - [x] Dissimiliarity
+   - [x] Homogenitas
+   - [x] Entropi
+   - [x] ASM
+   - [x] Energy
+   - [x] Correlation
+ 4. Buatlah korelasi fitur menggunakan Person Correlation.
+ 5. Tampilkanlah 5 korelasi tertinggi dari hasil korelasi fitur kalian.
+ 6. Analisislah perbedaan hasil ekstraksi fitur yang sudah dilakukan
+
+_Selamat mengerjakan!!_
+
+###Terima Kasih
