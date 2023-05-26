@@ -40,6 +40,7 @@ _Untuk menjawab soal mohon ikuti langkah ini dengan seksama_
 ### Output
 1. File .csv yang berisi fitur dataset.
 2. Gambar Pearson correlation.
+3. Dataset yang sudah di resize.
 
 
 _Gunakanlah 100-150 record dataset per label jika dataset dirasa terlalu berat untuk dieksekusi._
